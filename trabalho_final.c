@@ -47,6 +47,7 @@ static void UpdateGame(void);       // atualizando o jogo
 static void DrawGame(void);         // Desenhando o jogo
 static void UnloadGame(void);       // Unload game
 static void UpdateDrawFrame(void);  // Atualizando e desenhando
+void IniciaMenu();
 
 //------------------------------------------------------------------------------------
 // Main do jogo
